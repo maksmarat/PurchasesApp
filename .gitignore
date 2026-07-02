@@ -1,0 +1,15 @@
+.DS_Store
+
+# .NET
+bin/
+obj/
+
+# Local SQLite databases
+*.db
+*.db-*
+
+# Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
